@@ -1,0 +1,216 @@
+Array
+(
+    [photoUrl] => http://10.0.2.2/projet/ws/uploads/img_67f1c82c7ffec.jpg
+    [ville] => Casablanca
+    [dateNaissance] => 1997-01-01
+    [sexe] => femme
+    [id] => 49
+    [nom] => hhhhhnis
+    [prenom] => jjjjjjj
+)
+Array
+(
+    [photoUrl] => 
+    [ville] => Casablanca
+    [dateNaissance] => 2000-01-01
+    [sexe] => homme
+    [id] => 56
+    [nom] => fddddddd
+    [prenom] => dddddddd
+)
+Array
+(
+    [photoUrl] => http://10.0.2.2/projet/ws/uploads/67f190b0524bc.jpg
+    [ville] => Casablanca
+    [dateNaissance] => 1900-01-01
+    [sexe] => homme
+    [id] => 58
+    [nom] => Test
+    [prenom] => Testssss
+)
+Array
+(
+    [photoUrl] => http://10.0.2.2/projet/ws/uploads/67f190b0524bc.jpg
+    [ville] => Casablanca
+    [dateNaissance] => 1900-01-01
+    [sexe] => homme
+    [id] => 58
+    [nom] => Test
+    [prenom] => Test
+)
+Array
+(
+    [photoUrl] => http://10.0.2.2/projet/ws/uploads/67f162cad42fc.jpg
+    [ville] => Casablanca
+    [dateNaissance] => 1999-12-30
+    [sexe] => homme
+    [id] => 49
+    [nom] => hhhhh
+    [prenom] => jjjjjjjkkkk
+)
+Array
+(
+    [photoUrl] => http://10.0.2.2/projet/ws/uploads/img_67f1c9db2628c.jpg
+    [ville] => Casablanca
+    [dateNaissance] => 2000-01-01
+    [sexe] => femme
+    [id] => 49
+    [nom] => hhhhh
+    [prenom] => jjjjjjj
+)
+Array
+(
+    [photoUrl] => http://10.0.2.2/projet/ws/uploads/img_67f1ca39d9251.jpg
+    [ville] => Casablanca
+    [dateNaissance] => 1900-01-01
+    [sexe] => homme
+    [id] => 58
+    [nom] => Test
+    [prenom] => Test
+)
+Array
+(
+    [photoUrl] => http://10.0.2.2/projet/ws/uploads/img_67f1cd3c26d27.jpg
+    [ville] => Fès
+    [dateNaissance] => 2001-01-01
+    [sexe] => femme
+    [id] => 3
+    [nom] => Lachguer
+    [prenom] => abdommmm
+)
+Array
+(
+    [photoUrl] => default_image_url.jpg
+    [ville] => Marrakech
+    [dateNaissance] => 2004-01-01
+    [sexe] => femme
+    [id] => 3
+    [nom] => Lachguer
+    [prenom] => abdo
+)
+Array
+(
+    [photoUrl] => http://10.0.2.2/projet/ws/uploads/img_67f1cd81d7a2a.jpg
+    [ville] => Marrakech
+    [dateNaissance] => 2000-01-01
+    [sexe] => homme
+    [id] => 3
+    [nom] => Lachguer
+    [prenom] => abdo
+)
+Array
+(
+    [photoUrl] => http://10.0.2.2/projet/ws/uploads/img_67f1ce2adfa7d.jpg
+    [ville] => Tanger
+    [dateNaissance] => 2000-01-01
+    [sexe] => femme
+    [id] => 45
+    [nom] => YOOOOOOO
+    [prenom] => YYOO
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [photoUrl] => http://10.0.2.2/projet/ws/uploads/default.jpg
+    [ville] => Marrakech
+    [dateNaissance] => 1999-12-30
+    [sexe] => homme
+    [id] => 4
+    [nom] => Lachguer
+    [prenom] => Fati
+)
+Array
+(
+    [photoUrl] => http://10.0.2.2/projet/ws/uploads/default.jpg
+    [ville] => Tanger
+    [dateNaissance] => 2000-01-01
+    [sexe] => femme
+    [id] => 45
+    [nom] => dddd
+    [prenom] => YYOOOOOOO
+)
+Array
+(
+    [photoUrl] => xhttp://10.0.2.2/projet/ws/uploads/img_67f22bd17490a.jpg
+    [ville] => Tanger
+    [dateNaissance] => 2000-01-01
+    [sexe] => homme
+    [id] => 45
+    [nom] => YOOOOOOO
+    [prenom] => YYOOOOOOO
+)
+Array
+(
+    [photoUrl] => http://10.0.2.2/projet/ws/uploads/default.jpg
+    [ville] => Tanger
+    [dateNaissance] => 2000-01-01
+    [sexe] => femme
+    [id] => 45
+    [nom] => YOOOOOOO
+    [prenom] => YYOOOOyyy
+)
+Array
+(
+    [photoUrl] => http://10.0.2.2/projet/ws/uploads/default.jpg
+    [ville] => Tanger
+    [dateNaissance] => 2001-01-01
+    [sexe] => femme
+    [id] => 45
+    [nom] => YOOOOOOO
+    [prenom] => YYOO
+)
+Array
+(
+    [photoUrl] => http://10.0.2.2/projet/ws/uploads/default.jpg
+    [ville] => Tanger
+    [dateNaissance] => 2000-01-01
+    [sexe] => femme
+    [id] => 45
+    [nom] => YOOOOOOO
+    [prenom] => WAAAAAAAAAAA
+)
+Array
+(
+    [photoUrl] => http://10.0.2.2/projet/ws/uploads/img_67f2326c26d8b.jpg
+    [ville] => Tanger
+    [dateNaissance] => 2000-01-01
+    [sexe] => femme
+    [id] => 45
+    [nom] => YOOOOOOO
+    [prenom] => WAAAAAAAAAAA
+)
+Array
+(
+    [photoUrl] => http://10.0.2.2/projet/ws/uploads/img_67f2350ed911a.jpg
+    [ville] => Marrakech
+    [dateNaissance] => 2018-10-06
+    [sexe] => homme
+    [id] => 61
+    [nom] => Oussama
+    [prenom] => Irharissa
+)
+Array
+(
+    [photoUrl] => http://10.0.2.2/projet/ws/uploads/img_67f26d07926f6.jpg
+    [ville] => Tanger
+    [dateNaissance] => 2016-04-06
+    [sexe] => femme
+    [id] => 62
+    [nom] => Asma
+    [prenom] => Bouhadda
+)
+Array
+(
+    [photoUrl] => http://10.0.2.2/projet/ws/uploads/img_67f26f54f281b.jpg
+    [ville] => Fès
+    [dateNaissance] => 2017-02-06
+    [sexe] => femme
+    [id] => 63
+    [nom] => Asma
+    [prenom] => Bouhadda
+)

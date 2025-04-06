@@ -1,0 +1,15 @@
+ID: 45
+Rows updated: 
+Last error: {"type":2,"message":"Undefined variable $rowsAffected","file":"C:\\wamp64\\www\\projet\\ws\\updateEtudiant.php","line":29}
+ID: 45
+Rows updated: 
+Last error: {"type":2,"message":"Undefined variable $rowsAffected","file":"C:\\wamp64\\www\\projet\\ws\\updateEtudiant.php","line":29}
+ID: 61
+Rows updated: 
+Last error: {"type":2,"message":"Undefined variable $rowsAffected","file":"C:\\wamp64\\www\\projet\\ws\\updateEtudiant.php","line":29}
+ID: 62
+Rows updated: 
+Last error: {"type":2,"message":"Undefined variable $rowsAffected","file":"C:\\wamp64\\www\\projet\\ws\\updateEtudiant.php","line":29}
+ID: 63
+Rows updated: 
+Last error: {"type":2,"message":"Undefined variable $rowsAffected","file":"C:\\wamp64\\www\\projet\\ws\\updateEtudiant.php","line":29}
